@@ -1,0 +1,23 @@
+{
+  "name": "curso-de-ecmascript",
+  "version": "1.0.0",
+  "description": "curso de ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josue3002/curso-de-ECMAScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Josue Gullo <josuegullo163@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josue3002/curso-de-ECMAScript/issues"
+  },
+  "homepage": "https://github.com/josue3002/curso-de-ECMAScript#readme"
+}
