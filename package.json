@@ -16,6 +16,7 @@
   ],
   "author": "Josue Gullo <josuegullo163@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/josue3002/curso-de-ECMAScript/issues"
   },
