@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/josue3002/curso-de-ECMAScript/issues"
   },
-  "homepage": "https://github.com/josue3002/curso-de-ECMAScript#readme"
+  "homepage": "https://github.com/josue3002/curso-de-ECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
